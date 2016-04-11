@@ -1,16 +1,17 @@
 # Contents
 
 ### Introduction
-          What is the CEA Toolbox?
-          What is ArcGIS?
+      What is the CEA Toolbox?
+      What is ArcGIS?
 
 ### Getting Started
-          The ArcScene Interface.      
-          CEA Toolbox Structure.
+      The ArcScene Interface.
+      Creating a new scene.
+      CEA Toolbox Structure.
                 
 ### Modelling in CEA
-
-      How does it work?
+      How it works
+      
           Radiation files are read from a .csv file that we created (time consuming)
       Customizing your model
           Editing files properties
