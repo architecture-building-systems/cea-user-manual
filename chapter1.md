@@ -1,11 +1,8 @@
-# First Chapter
+# Getting Started
 
-Getting Started
-
-
-          The ArcScene Interface.
+**The ArcScene Interface.**
           
-          CEA Toolbox Structure.
+**CEA Toolbox Structure.**
           
           Components of an urban setting in CEA (Building types)--->NOTE: Can be a printable sheet.
                 MDU    Multi-dwelling unit
