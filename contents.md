@@ -11,15 +11,13 @@
                 
 ### Simulating in CEA Toolbox
       How it works
-          Radiation files are read from a .csv file that we created (time consuming)
       Customizing your model
-          Editing files properties
       Running simulations
       Creating and editing scenarios
 
-      
+### Limitations of the CEA Toolbox (What can and can't the CEA Toolbox do?)
+
 ### Example files & Tutorials
 
 
       
-### Limitations of the CEA Toolbox (What can and can't the CEA Toolbox do?)
