@@ -4,4 +4,5 @@
 * [Introduction](README.md)
 * [Getting Started](chapter1.md)
 * [To be deleted](to_be_deleted.md)
+* Modelling in CEA Toolbox
 
