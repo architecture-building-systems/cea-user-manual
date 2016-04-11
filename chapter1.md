@@ -1,8 +1,15 @@
 # Getting Started
 
 **The ArcScene Interface.**
-**Creating a new scene.**
-**CEA Toolbox Structure.**
+**Creating a new project.**
+**Modeling with ArcScene**
+**CEA Toolbox Structure**
+          Model Properties
+          Merging data within the model
+          Analyses panel
+          
+          
+          
           
           Components of an urban setting in CEA (Building types)--->NOTE: Can be a printable sheet.
                 MDU    Multi-dwelling unit
