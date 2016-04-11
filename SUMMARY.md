@@ -4,5 +4,5 @@
 * [Introduction](README.md)
 * [Getting Started](chapter1.md)
 * [Simulating in CEA Toolbox](modelling_in_cea_toolbox.md)
-* [___To be deleted](to_be_deleted.md)
+* [__Working notes__To be deleted](to_be_deleted.md)
 
