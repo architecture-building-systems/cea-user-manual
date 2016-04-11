@@ -7,7 +7,7 @@
 ### Getting Started
       The ArcScene Interface.
       Creating a new scene.
-      CEA Toolbox Structure.
+      CEA Toolbox Structure and modelling.
                 
 ### Modelling in CEA
       How it works
