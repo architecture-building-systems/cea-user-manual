@@ -1,7 +1,7 @@
 # Getting Started
 
 **The ArcScene Interface.**
-          
+**Creating a new scene.**
 **CEA Toolbox Structure.**
           
           Components of an urban setting in CEA (Building types)--->NOTE: Can be a printable sheet.
