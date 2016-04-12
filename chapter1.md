@@ -1,12 +1,15 @@
 # Getting Started
 
-**The ArcScene Interface.**
-**Creating a new project.**
-**Modeling with ArcScene**
-**CEA Toolbox Structure**
-          Model Properties
-          Merging data within the model
-          Analyses panel
+## The ArcScene Interface.
+
+## Creating a new project.
+
+## Modeling with ArcScene
+
+## CEA Toolbox Structure
+### Model Properties
+### Merging data within the model
+### Analyses panel
           
           
           
